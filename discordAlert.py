@@ -6,13 +6,13 @@ from collections import defaultdict
 from datetime import datetime, timedelta
 
 # Your Discord Bot Token
-bot_token = 'MTE4NDYzNTAwODgwNDE5NjQzNQ.GMMXc7.0AeRnsB_Lo4ul38Ppatm4q7oi5NdVy-BQd0ytg'
+bot_token = 'XXXPLACEHOLDER'
 
 # Discord Bot Prefix
 bot = commands.Bot(command_prefix='!')
 
 # User ID for Receiving Alerts
-user_id = 697596709508874310
+user_id = XXXPLACEHOLDERXXX
 
 # Global dictionary to track login attempts
 login_attempts = defaultdict(lambda: {'count': 0, 'first_attempt_time': None})
