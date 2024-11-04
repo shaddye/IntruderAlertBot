@@ -10,7 +10,7 @@ Python 3.x
 Discord.py library
 Scapy library
 
-Installation
+Installation:
 Clone the repository or download the files.
 
 Install the required libraries:
